@@ -10,8 +10,8 @@ FakeSV:[FakeSV: A Multimodal Benchmark with Rich Social Context for Fake News De
 FakeTT:[FakingRecipe: Detecting Fake News on Short Video Platforms from the Perspective of Creative Process, ACM MM 2024.]
 ## Data Preprocess
 To facilitate reproduction, we provide papers on preprocessing methods that you can use to process the features.Please place these features in the specified location, which can be customized in dataloader.py. 
-[Bert](https://github.com/ymcui/Chinese-BERT-wwm).
-[MAE](https://github.com/facebookresearch/mae).
+[Bert](https://github.com/ymcui/Chinese-BERT-wwm).\n
+[MAE](https://github.com/facebookresearch/mae).\n
 [HuBert](https://github.com/bshall/hubert).
 
 The original dataset can be applied for [FakeSV](https://github.com/ICTMCG/FakeSV) and [FakeTT](https://github.com/ICTMCG/FakingRecipe?tab=readme-ov-file).

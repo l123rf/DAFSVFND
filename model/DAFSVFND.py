@@ -76,11 +76,11 @@ class DAFSVFNDModel(torch.nn.Module):
         if self.text_dim == 768:
             fea_text = self.text_linear(fea_text)
         
-#         ### Audio Frames ###
+        ### Audio Frames ###
         fea_audio = kwargs['audio_feas']  # (B,L,D)
 
         
-#         ### Image Frames ###
+        ### Image Frames ###
         frames = kwargs['frames']  # (B,L,D)
         
         

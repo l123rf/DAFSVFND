@@ -3,7 +3,7 @@ from torch.utils.tensorboard import SummaryWriter
 from model.DAFSVFND import DAFSVFNDModel
 from utils.dataloader import DAFSVFNDDataset
 from utils.tools import *
-from utils.Trainer import Trainer
+from model.Trainer import Trainer
 import numpy as np
 
 def _init_fn(worker_id):

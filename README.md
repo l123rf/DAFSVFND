@@ -1,5 +1,5 @@
 # DAFSVFND
-code for paper: [DAFSVFND : Dual Attention Fusion Network for Fake News Detection on Short Video Platforms]
+code for paper: [DAFSVFND: Dual Attention Fusion Network for Fake News Detection on Short Video Platforms]
 ## Environment
 please refer to the file requirements.txt.
 ## Dataset
